@@ -11,7 +11,7 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-# Cuantos eventos sísmicos ocurren cada año en República Dominicana
+# Cuántos eventos sísmicos ocurren cada año en República Dominicana ?
 
 * ...
 
