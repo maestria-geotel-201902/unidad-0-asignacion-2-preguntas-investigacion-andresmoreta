@@ -13,7 +13,7 @@ Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos s
 
 * ¿ Cuáles son las provincias con mayor actividad sísmicas en República Dominicana ?
 
-* ...Qué patrones espaciales siguieron los sismos registrados en la República Dominicana y sus alrededores en el año 2014.
+*¿ Qué patrones espaciales siguieron los sismos registrados en la República Dominicana y sus alrededores en el año 2014 ?
 
 * ...
 
