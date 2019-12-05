@@ -11,10 +11,10 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ¿ Cuáles son las provincias con mayor actividad sísmicas en República Dominicana ?
+* ¿ Cuáles fueron las provincias con mayor actividad sísmicas en República Dominicana en el año 2014  ?
 
-*¿ Qué patrones espaciales siguieron los sismos registrados en la República Dominicana y sus alrededores en el año 2014 ?
+*¿ Qué patrones espaciales siguieron los sismos registrados en la República Dominicana en el año 2014 ?
 
-* ...
+* ¿ Existe autocorrelación entre la longitud total de fallas geológicas por provincia y los sismos registrados en la República Dominicana en el año 2014 ?
 
-* ...
+* ¿ Qué predominó más para la ocurencia de terremotos en las provincias de la República Dominicana en el año 2014, la longitud total de fallas geológicas  o la cantidad de fallas geológicas ?
